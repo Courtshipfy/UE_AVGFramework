@@ -1,2 +1,2 @@
 # UE_AVGFramework
-an opensource AVG framwork for Unreal Engine 5
+an AVG framwork for Unreal Engine 5
